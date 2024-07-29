@@ -1,0 +1,57 @@
+/* VARIABLES */
+:root {
+
+   /* Background color */
+   --clr-main-1: #FFFFFF;
+   --clr-main-2: #FFF5F7;
+   --clr-main-3: #FFB8C9;
+   --clr-main-4: #F9E0E5;
+
+   /* Primary button color */
+   --clr-btn-main-1: #FFFFFF;
+   --clr-btn-main-2: #FF4C77;
+   --clr-btn-main-3: #3CA022;
+
+   /* Secondary button color */
+   --clr-btn-add: #3CA022;
+   --clr-btn-remove: #FF4C77;
+   --clr-btn-neutral: #6F6F6F;
+
+   /* Fent color  */
+   --fc-light: #FFFFFF;
+   --fc-dark: #282828;
+   --fc-alt: #8D8D8D;
+   --fc-alt-2: #FF4C77;
+
+   /* Font */
+   --ff-main-1: "Inter";
+   --ff-main-2: "Fira Code";
+   --ff-main-3: "Titan One";
+
+   --fw-regular: 400;
+   --fw-bold: 700;
+
+   --fs-main-1: 18px;
+   --fs-main-2: 20px;
+   --fs-title: 60px;
+   --fs-subtitle: 30px;
+
+   /* Fonts mobile */
+   --m-fs-main-1: 15px;
+   --m-fs-main-2: 18px;
+   --m-fs-title: 40px;
+   --m-fs-subtitle: 20px;
+
+}
+
+/* GENERAL */
+
+* {
+   font-family: var(--ff-main-1);
+}
+
+img {
+   width: 300px;
+   height: 300px;
+}
+
